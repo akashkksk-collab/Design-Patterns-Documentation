@@ -1,0 +1,21 @@
+# Factory Pattern
+
+## Problem
+
+Applications may need to create different types of related objects.
+
+## Solution
+
+Factory provides a central method for creating the required object.
+
+## Example
+
+Email, SMS and Push notification creation.
+
+## When to Use
+
+Use Factory when object creation depends on the required type.
+
+## Key Idea
+
+Request type → Factory → Required object
