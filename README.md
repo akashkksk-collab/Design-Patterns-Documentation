@@ -110,6 +110,15 @@ design problems.
 
 This project demonstrates the basic concepts of Singleton,
 Factory, and Observer patterns.
+## GitHub Workflow Completed
+
+- Repository created
+- Design pattern documentation added
+- Multiple meaningful commits created
+- Feature branch created
+- Pull request created
+- Feature branch merged
+- README documentation maintained
 
 ## Author
 
