@@ -1,21 +1,27 @@
-# Factory Pattern
+# Design Pattern Comparison
 
-## Problem
+## Singleton
 
-Applications may need to create different types of related objects.
+Purpose: Maintain one shared instance.
 
-## Solution
+Example: Configuration manager.
 
-Factory provides a central method for creating the required object.
+## Factory
 
-## Example
+Purpose: Create objects based on a required type.
 
-Email, SMS and Push notification creation.
+Example: Notification system.
 
-## When to Use
+## Observer
 
-Use Factory when object creation depends on the required type.
+Purpose: Notify multiple objects about changes.
 
-## Key Idea
+Example: YouTube subscribers.
 
-Request type → Factory → Required object
+## Summary
+
+Singleton focuses on object instance control.
+
+Factory focuses on object creation.
+
+Observer focuses on communication and updates.
